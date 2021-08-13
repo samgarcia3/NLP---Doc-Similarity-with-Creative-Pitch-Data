@@ -1,7 +1,7 @@
 # NLP---Doc-Similarity-with-Creative-Pitch-Data
 I am learning Document Similarity and what different methods can be used.
 
-# The different Similrity Methods that I currently know of.
+# The different Similarity Methods:
 1. Cosine Similarity
 2. Euclidean Distance
 3. Jaccard Similarity
